@@ -1,0 +1,14 @@
+# Task domain
+
+list
+  id uuid pk
+  name varchar
+  created_at timestamp
+  updated_at timestamp
+
+task
+  id uuid pk
+  list_id uuid fk list.id
+  description text
+  created_at timestamp
+  updated_at timestamp
