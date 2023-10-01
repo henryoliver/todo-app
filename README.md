@@ -1,2 +1,7 @@
-# todo-app
-Simple app to explore some new tecnologies
+---
+
+# **My ToDo App**
+
+_A simple application to explore innovative technologies._
+
+---
